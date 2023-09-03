@@ -1,0 +1,7 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": ["uewtwo"],
+  "ignoreWords": [],
+  "ignorePaths": ["node_modules", "dist", "config"]
+}
